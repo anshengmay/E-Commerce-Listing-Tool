@@ -10,5 +10,4 @@ How to use the Listing Tool application:
 4. Click the submit button again, the suggested price will be generated.
 
 ## Demo
-
-<iframe src='//gifs.com/embed/listing-tool-demo-nR9Q6E' frameborder='0' scrolling='no' width='632px' height='360px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<img src="https://j.gifs.com/nR9Q6E.gif"/>
