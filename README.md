@@ -11,4 +11,4 @@ How to use the Listing Tool application:
 
 ## Demo
 
-[![Demo Doccou alpha](http://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo](https://imgur.com/RHIVKIN)](https://youtu.be/xtuZQcgBnik)
