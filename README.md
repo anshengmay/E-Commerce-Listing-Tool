@@ -10,5 +10,4 @@ How to use the Listing Tool application:
 4. Click the submit button again, the suggested price will be generated.
 
 ## Demo
-
-[![Demo](https://imgur.com/RHIVKIN)]
+<img src="https://imgur.com/RHIVKIN"/>
