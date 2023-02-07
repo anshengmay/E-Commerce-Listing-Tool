@@ -11,4 +11,4 @@ How to use the Listing Tool application:
 
 ## Demo
 
-[![Demo](https://imgur.com/RHIVKIN)](https://youtu.be/xtuZQcgBnik)
+[![Demo](https://imgur.com/RHIVKIN)]
