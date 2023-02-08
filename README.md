@@ -15,4 +15,4 @@ How to use the Listing Tool application:
 # Dash Application: Description Generation Tool
 
 ## Demo
-<img src="https://imgur.com/c3X9heI.gif"/>
+<img src="https://imgur.com/c3X9heI.gif"/> 
