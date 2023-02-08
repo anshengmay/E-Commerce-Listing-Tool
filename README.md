@@ -11,3 +11,8 @@ How to use the Listing Tool application:
 
 ## Demo
 <img src="https://i.imgur.com/RHIVKIN.gif"/>
+
+Dash Application: Description Generation Tool
+
+## Demo
+<img src="https://imgur.com/a/Ez3863V.gif"/>
