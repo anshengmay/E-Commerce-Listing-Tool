@@ -14,4 +14,4 @@ How to use the Listing Tool application:
 
 ## Dash Application: Description Generation Tool
 
-<img src="https://imgur.com/c3X9heI.gif"height="250"/>
+<img src="https://imgur.com/c3X9heI.gif" height="250"/>
