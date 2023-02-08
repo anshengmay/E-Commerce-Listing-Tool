@@ -15,4 +15,5 @@ How to use the Listing Tool application:
 ## Dash Application: Description Generation Tool
 
 <img src="https://i.imgur.com/c3X9heI.gif" height="250"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/c3X9heI"  ><a href="//imgur.com/a/c3X9heI">Description Generation Tool</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
  
