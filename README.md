@@ -10,9 +10,8 @@ How to use the Listing Tool application:
 4. Click the submit button again, the suggested price will be generated.
 
 ## Demo
-<img src="https://i.imgur.com/RHIVKIN.gif"/>
+<img src="https://i.imgur.com/RHIVKIN.gif" width="250" height="250"/>
 
-# Dash Application: Description Generation Tool
+## Dash Application: Description Generation Tool
 
-## Demo
-<img src="https://imgur.com/c3X9heI.gif"/> 
+<img src="https://imgur.com/c3X9heI.gif" width="250" height="250"/>
