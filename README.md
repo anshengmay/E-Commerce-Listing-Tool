@@ -1,5 +1,7 @@
 # E-Commerce-Listing-Tool
 
+E-Commerce-Listing-Tool is a dash app to help e-commerce sellers by suggesting the ideal listing price, category, and product description based on other product features when introducing new products into the market. 
+
 Dash Application: [Listing Tool](https://listing-tool-b2f3b75fja-uc.a.run.app/)
 
 How to use the Listing Tool application: 
